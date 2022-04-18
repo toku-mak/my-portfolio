@@ -1,0 +1,74 @@
+{
+	"skills": [
+		{
+			"name": "HTML/CSS",
+			"level": 2,
+			"note": "このサイトがひとりで作れるくらい"
+		},
+		{
+			"name": "React/TypeScript",
+			"level": 2,
+			"note": "このサイトがひとりで作れるくらい"
+		},
+		{
+			"name": "Vue/JavaScript",
+			"level": 1,
+			"note": "会社で導入検討として試用ページを作成"
+		},
+		{
+			"name": "Node.js/Express",
+			"level": 1,
+			"note": "会社で導入検討として試用サーバーを作成"
+		},
+		{
+			"name": "C",
+			"level": 3,
+			"note": "学生時代から業務まで利用"
+		},
+		{
+			"name": "C++",
+			"level": 4,
+			"note": "業務で複数プロジェクトで利用"
+		},
+		{
+			"name": "Qt(C++)",
+			"level": 4,
+			"note": "業務で複数プロジェクトで利用"
+		},
+		{
+			"name": "C#/WPF",
+			"level": 3,
+			"note": "業務で０からアプリを開発"
+		},
+		{
+			"name": "Java",
+			"level": 2,
+			"note": "既存システムの保守を実施"
+		},
+		{
+			"name": "Python",
+			"level": 2,
+			"note": "業務中に必要に応じてツールを作成"
+		},
+		{
+			"name": "VBA",
+			"level": 3,
+			"note": "業務中に必要に応じてツールを作成"
+		},
+		{
+			"name": "WindowsOS",
+			"level": 2,
+			"note": "必要に応じて各種設定を行う"
+		},
+		{
+			"name": "Linux(Debian/CentOS)",
+			"level": 4,
+			"note": "必要に応じてインストール/各種設定を行う"
+		},
+		{
+			"name": "MacOS",
+			"level": 2,
+			"note": "プライベートで触る程度"
+		}
+	]
+}
